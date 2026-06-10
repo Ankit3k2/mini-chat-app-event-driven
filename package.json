@@ -1,0 +1,26 @@
+{
+  "name": "mini-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatRoom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit3k2/mini-chat-app-event-driven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit3k2/mini-chat-app-event-driven/issues"
+  },
+  "homepage": "https://github.com/Ankit3k2/mini-chat-app-event-driven#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
